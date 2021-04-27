@@ -1,0 +1,8 @@
+/live[ds]/  with 7 matches.
+
+/virtue/   with 18  match.
+
+/\d{1}\./ with 4 matches.
+
+/c\w{15}/ with 1 match.
+
